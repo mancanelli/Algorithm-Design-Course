@@ -1,7 +1,5 @@
-# Algorithm Design Course
+# Master's Degree Courses
 
-This project is no longer maintained.
+The files contain projects and answers to assignments from the courses of the Master's Degree in Engineering in Computer Science.
 
-The files contain answers to assignments from the Algorithm Design course.
-
-The related code will be added soon.
+This repo is no longer maintained.
